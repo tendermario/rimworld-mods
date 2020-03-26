@@ -1,6 +1,6 @@
 # Rimworld Mods
 
-These is all my preferred 1.1 mods. It'll probably evolve over time, but for now it's simple enough to just keep in a readme. If you've any must-haves to recommend, feel free to send a PR or open an issue!
+These are all my preferred 1.1 mods. It'll probably evolve over time, but for now it's simple enough to just keep in a readme. If you've any must-haves to recommend, feel free to send a PR or open an issue!
 
 ## Modlist
 
