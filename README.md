@@ -5,10 +5,10 @@ These are all my preferred 1.1 mods. It'll probably evolve over time, but for no
 ## Modlist
 
 **Numbers** - Adds a customizable general overview tab, allowing you to see any stats across ALL your colonists or prisoners in a single window.
-  Dependency: Harmony
+- Dependency: **Harmony**
 
 **Avoid Friendly Fire** - Adds an option to avoid shooting your team in the back. If attacking enemy, will not shoot. If hunting, will reposition.
-  Dependency: HugsLib
+- Dependency: **HugsLib**
 
 ## Additional Dependencies
 
