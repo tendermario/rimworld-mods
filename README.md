@@ -25,6 +25,10 @@ These are all my preferred 1.1 mods. It'll probably evolve over time, but for no
 **HugsLib** - This is needed for many mods, as it provides useful tools for developers or something.
 
 
+## Additional Resources:
+
+I'm currently scouring this list to find out what other things to add here. It gives a great overview of some of the best mods, so check it out too if you're reading this: https://www.strategygamer.com/articles/best-rimworld-mods/
+
 ### 1.0 note:
 
 If you decide to do 1.0 for some reason, there's a really nice and complete list of mods to use called [Hardcore-SK](https://github.com/skyarkhangel/Hardcore-SK). I recommend checking that out, and removing the zombieland mod.
