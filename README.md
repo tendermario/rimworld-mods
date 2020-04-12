@@ -10,6 +10,14 @@ These are all my preferred 1.1 mods. It'll probably evolve over time, but for no
 **Avoid Friendly Fire** - Adds an option to avoid shooting your team in the back. If attacking enemy, will not shoot. If hunting, will reposition.
 - Dependency: **HugsLib**
 
+**P-Music** - Adds 25 new songs to RimWorld.
+
+**Range Finder** - Want to check the range you and enemies can shoot from? Just select one or more colonists or turrets and press the hotkey (CTRL by default). When you quickly press the key twice the range will stay visible until you press the key later again.
+
+**Item List Selector** - Allows you to select stockpile items from the top left list of items.
+
+**Awesome Inventory** - Loadout management, display relevant armor stats in one place, multiple equipping options. And more!
+
 ## Additional Dependencies
 
 **Harmony** - This basically was a part of the original game, but was removed as of 1.1, so you need it now for many mods that were made for 1.0.
